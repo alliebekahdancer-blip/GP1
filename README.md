@@ -1,2 +1,2 @@
-# GP1
+# Group 1
 4610 Group Project 1
